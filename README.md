@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on TRUSS
-- 📫 How to reach me ...
+- 📫 saxon.sys@gmail.com
 - 😄 Pronouns: SAXON
 - ⚡ Fun fact: Love Bash!
 
